@@ -19,10 +19,64 @@
     <Filter Include="소스 파일\Day2">
       <UniqueIdentifier>{fff01865-f37c-4700-8b1f-fb0a5bc655fa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Day3">
+      <UniqueIdentifier>{00c25944-1400-431b-816e-d3ac589369cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day4">
+      <UniqueIdentifier>{57a8872b-baad-4b13-87fe-56a6ae61e394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day5">
+      <UniqueIdentifier>{493d99a1-b32a-4a1c-a06b-687ed5344604}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day6">
+      <UniqueIdentifier>{c9e3a034-3002-4861-b8b1-390de8fdad6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day7">
+      <UniqueIdentifier>{aec5a715-ae5d-4604-a821-c26c49d66d86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day8">
+      <UniqueIdentifier>{6f95fd17-3bf1-451a-b3f6-c0c0ead282db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day9">
+      <UniqueIdentifier>{60d04cbd-3654-4329-8fc2-71e6b4c63c05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day10">
+      <UniqueIdentifier>{f0ff8fa8-56df-43c2-860d-6a2f9106e51c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day11">
+      <UniqueIdentifier>{7ed07f9f-cc56-4b81-aca3-70219c0fb076}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day12">
+      <UniqueIdentifier>{1c69957e-6df8-4803-9d53-f400e085daa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day13">
+      <UniqueIdentifier>{9799bfb0-4e3d-4fdf-9080-b7bc3331728d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day14">
+      <UniqueIdentifier>{2bfc374f-140f-45b4-884e-1d94610dadb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Day15">
+      <UniqueIdentifier>{a66a3617-3bb7-4d0d-8ef0-69572560c0b5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="hello.c">
       <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="기본구조.c">
+      <Filter>소스 파일\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="ㅇㅇ.c">
+      <Filter>소스 파일\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="영어다이아몬드.c">
+      <Filter>소스 파일\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="변수.c">
+      <Filter>소스 파일\Day2</Filter>
+    </ClCompile>
+    <ClCompile Include="변수의 출력.c">
+      <Filter>소스 파일\Day2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
