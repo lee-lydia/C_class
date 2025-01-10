@@ -5,7 +5,7 @@ int main()
 {
 	int value;
 	printf("숫자를 입력하세요.");
-	scanf("%n", &value);
+	scanf("%d", &value);
 	for (int i = 0;i < value;i++) {
 		for (int j = 0;j <= i;j++) {
 			printf("*");

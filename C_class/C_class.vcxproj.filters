@@ -78,5 +78,14 @@
     <ClCompile Include="변수의 출력.c">
       <Filter>소스 파일\Day2</Filter>
     </ClCompile>
+    <ClCompile Include="자료형.c">
+      <Filter>소스 파일\Day3</Filter>
+    </ClCompile>
+    <ClCompile Include="아스키코드.c">
+      <Filter>소스 파일\Day3</Filter>
+    </ClCompile>
+    <ClCompile Include="상수.c">
+      <Filter>소스 파일\Day3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
