@@ -11,7 +11,7 @@ int main(void)
 	* char : 1 byte | %c
 				값의 범위: signed(-128~127) - 최상위비트(부호비트)로 부호 판단(0: 양수/ 1: 음수)
 								unsigned(0~255)
-	* short : 2 byte | %
+	* short : 2 byte | %d
 	* int : 4 byte | %d
 	* long : 4 byte | %ld
 	* long long : 8 byte | %lld

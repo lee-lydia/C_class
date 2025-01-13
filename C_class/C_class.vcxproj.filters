@@ -87,5 +87,14 @@
     <ClCompile Include="상수.c">
       <Filter>소스 파일\Day3</Filter>
     </ClCompile>
+    <ClCompile Include="자료형의 변환.c">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="언사인드.c">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
+    <ClCompile Include="형식문자.c">
+      <Filter>소스 파일\Day4</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
