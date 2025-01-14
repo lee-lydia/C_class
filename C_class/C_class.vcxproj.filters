@@ -96,5 +96,23 @@
     <ClCompile Include="형식문자.c">
       <Filter>소스 파일\Day4</Filter>
     </ClCompile>
+    <ClCompile Include="scanf.c">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="산술연산자.c">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="대입연산자.c">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="비교연산자.c">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="증감연산자.c">
+      <Filter>소스 파일\Day5</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자우선순위.c">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
