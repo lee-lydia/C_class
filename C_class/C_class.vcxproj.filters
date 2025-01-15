@@ -114,5 +114,17 @@
     <ClCompile Include="연산자우선순위.c">
       <Filter>소스 파일\Day6</Filter>
     </ClCompile>
+    <ClCompile Include="짱구의 기말고사.c">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="논리연산자.c">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항조건연산자.c">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
+    <ClCompile Include="비트단위연산자.c">
+      <Filter>소스 파일\Day6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
