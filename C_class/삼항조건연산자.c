@@ -19,7 +19,7 @@ int main(void)
 	printf("숫자를 입력하시오.");
 	scanf_s("%d", &value);
 	
-	result2 = (value % 2 == 0) ? 0 : 1;
+	result2 = (value % 2 == 0) ? 0 : 1; // 짝수 판단법 : 값 % 2 == 0 (참 : 짝수, 거짓 : 홀수)
 	printf("당신이 입력한 숫자는 %d 이며 결과 : %d\n", value, result2);
 
 	return 0;

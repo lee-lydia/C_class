@@ -5,7 +5,6 @@ int main(void)
 	// 논리 연산자 결과값: TRUE(1) or FALSE(0)
 	/*
 	or (||) : 피연산자 중 하나 이상이 true -> true 반환
-	xor(^) : 피연산자 둘이 달라야만 (true와 false, false와 true) true 반환
 	and (&&) : 피연산자 중 하나 이상이 false -> false 반환
 	not (!) : 논리부정연산자, true -> false 반환, false -> true 반환
 
