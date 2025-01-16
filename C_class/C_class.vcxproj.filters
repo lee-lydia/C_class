@@ -126,5 +126,23 @@
     <ClCompile Include="비트단위연산자.c">
       <Filter>소스 파일\Day6</Filter>
     </ClCompile>
+    <ClCompile Include="시프트연산자.c">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="지하철요금문제.c">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_조건문_if, if else.c">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_조건문_else if.c">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="선택문_switch.c">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_조건문_중첩%28nested%29if문.c">
+      <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
