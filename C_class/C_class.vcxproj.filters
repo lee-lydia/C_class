@@ -138,11 +138,32 @@
     <ClCompile Include="제어문_조건문_else if.c">
       <Filter>소스 파일\Day7</Filter>
     </ClCompile>
-    <ClCompile Include="선택문_switch.c">
+    <ClCompile Include="제어문_선택문_switch.c">
       <Filter>소스 파일\Day8</Filter>
     </ClCompile>
-    <ClCompile Include="제어문_조건문_중첩%28nested%29if문.c">
+    <ClCompile Include="제어문_조건문_중첩 %28nested%29 if.c">
       <Filter>소스 파일\Day7</Filter>
+    </ClCompile>
+    <ClCompile Include="배송비 중첩 if 문.c">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="swtich 계산기_1.c">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="switch 계산기_2.c">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_반복문_while.c">
+      <Filter>소스 파일\Day8</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_반복문_break, continue.c">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_반복문_for.c">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_반복문_do while.c">
+      <Filter>소스 파일\Day9</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
