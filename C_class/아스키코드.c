@@ -3,6 +3,7 @@
 int main(void)
 {
 	// ASCII code: 숫자와 문자가 mapping되어 있다.
+	// incoding을 통해 문자를 숫자로 변환
 
 	char  ch1 = 'A';
 	printf("%c\n", ch1);
