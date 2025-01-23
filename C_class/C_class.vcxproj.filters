@@ -192,16 +192,7 @@
     <ClCompile Include="포인터와 배열.c">
       <Filter>소스 파일\Day11</Filter>
     </ClCompile>
-    <ClCompile Include="함수.c">
-      <Filter>소스 파일\Day12</Filter>
-    </ClCompile>
-    <ClCompile Include="메모리.c">
-      <Filter>소스 파일\Day12</Filter>
-    </ClCompile>
     <ClCompile Include="배열 보인터.c">
-      <Filter>소스 파일\Day12</Filter>
-    </ClCompile>
-    <ClCompile Include="문자열과 포인터.c">
       <Filter>소스 파일\Day12</Filter>
     </ClCompile>
     <ClCompile Include="포인터문제.c">
@@ -213,11 +204,23 @@
     <ClCompile Include="포인터 상수.c">
       <Filter>소스 파일\Day11</Filter>
     </ClCompile>
-    <ClCompile Include="다차원배열.c">
+    <ClCompile Include="2차원 배열 구구단.c">
       <Filter>소스 파일\Day12</Filter>
     </ClCompile>
     <ClCompile Include="포인터와 배열 문제.c">
       <Filter>소스 파일\Day11</Filter>
+    </ClCompile>
+    <ClCompile Include="2차원 배열.c">
+      <Filter>소스 파일\Day12</Filter>
+    </ClCompile>
+    <ClCompile Include="함수.c">
+      <Filter>소스 파일\Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열과 포인터.c">
+      <Filter>소스 파일\Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="메모리.c">
+      <Filter>소스 파일\Day13</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
