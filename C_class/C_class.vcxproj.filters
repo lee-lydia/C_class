@@ -222,5 +222,14 @@
     <ClCompile Include="메모리.c">
       <Filter>소스 파일\Day13</Filter>
     </ClCompile>
+    <ClCompile Include="인사하는 프로그램.c">
+      <Filter>소스 파일\Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="곱셈프로그램.c">
+      <Filter>소스 파일\Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 관련 함수.c">
+      <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -13,7 +13,7 @@ int main(void)
 
 	int main(void)
 	{
-		내용
+		코드;
 		return 0;
 	}
 
