@@ -174,7 +174,7 @@
     <ClCompile Include="배열.c">
       <Filter>소스 파일\Day10</Filter>
     </ClCompile>
-    <ClCompile Include="포인터1.c">
+    <ClCompile Include="포인터.c">
       <Filter>소스 파일\Day10</Filter>
     </ClCompile>
     <ClCompile Include="무한루프.c">
@@ -229,6 +229,27 @@
       <Filter>소스 파일\Day13</Filter>
     </ClCompile>
     <ClCompile Include="문자열 관련 함수.c">
+      <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="가격비교.c">
+      <Filter>소스 파일\Day13</Filter>
+    </ClCompile>
+    <ClCompile Include="전역변수 지역변수.c">
+      <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터와 함수의 관계.c">
+      <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="재귀호출.c">
+      <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문_goto.c">
+      <Filter>소스 파일\Day9</Filter>
+    </ClCompile>
+    <ClCompile Include="이중포인터.c">
+      <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터실전문제.c">
       <Filter>소스 파일\Day14</Filter>
     </ClCompile>
   </ItemGroup>

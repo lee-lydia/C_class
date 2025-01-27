@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define MYAGE = 10 // 가장 먼저 처리
+#define MYAGE 10 // 가장 먼저 처리
 
 int main(void)
 {
@@ -18,6 +18,7 @@ int main(void)
 											변수 선언 앞에 사용 -> 심볼릭 상수
 			macro (매크로) 상수: 심볼릭 상수의 일종 - 메인함수 위에 지정
 												세미콜론(;) X
+												#include 상수명 값
 	*/
 
 	//const int num3 = 3; // 선언과 동시에 초기화만 가능
@@ -27,6 +28,8 @@ int main(void)
 	num3 = 3;
 	선언 따로 초기화 따로 불가능
 	*/
+
+	printf("%d", MYAGE);
 
 	return 0;
 }

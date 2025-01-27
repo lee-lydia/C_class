@@ -5,11 +5,6 @@ int multiply(int a, int b)
 	return a * b;
 }
 
-int cmp(int a, int b)
-{
-	return a > b ? a : b;
-}
-
 int main(void)
 {
 	/*
@@ -24,27 +19,6 @@ int main(void)
 	int result = multiply(value1, value2);
 
 	printf("곱하기 연산 결과 : %d X %d = %d\n", value1, value2, result);
-
-	/*
-	두 가격 중 더 큰 값을 반환하는 함수
-	딸기 가격 입력받고 귤 가격을 입력받아서, 더 비싼 과일의 가격을 출력
-	*/
-
-	int straw, man, result_cmp;
-	printf("딸기의 가격을 입력해주세요. ");
-	scanf_s("%d", &straw);
-	printf("귤의 가격을 입력해주세요. ");
-	scanf_s("%d", &man);
-
-	result_cmp = cmp(straw, man);
-	
-	if (result_cmp == straw) {
-		printf("딸기가 ");
-	}
-	else {
-		printf("귤이 ");
-	}
-	printf("%d원으로 더 비쌉니다.\n", result_cmp);
 
 	return 0;
 }
