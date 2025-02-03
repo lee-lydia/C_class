@@ -12,25 +12,35 @@ int main(void)
 	/*
 	Dynamic Memory Allocation
 	-malloc() ⊂ <stdio.h>
-		자료형* 변수명 = (자료형*) malloc(size_t m);
+		자료형* 변수명 = (자료형*)malloc(size_t m);
 		m 개의 자료형 메모리 공간 생성
+		메모리 공간의 첫번째 주소 반환(void형으로) -> (자료형*)이 필요 (요청받은 메모리가 너무 커 확보 불가능한 경우, NULL 반환)
 
 	-calloc() ⊂ <stdlib.h>
-		자료형* 변수명 = (자료형*) calloc(size_t m, size_t elem_size);
+		자료형* 변수명 = (자료형*)calloc(size_t m, size_t elem_size);
 		m 개의 elem_size 바이트 메모리 공간 생성
+		메모리 공간의 첫번째 주소 반환(void형으로) -> (자료형*)이 필요 (요청받은 메모리가 너무 커 확보 불가능한 경우, NULL 반환)
 
 	-realloc() ⊂ <stdio.h>
-		변수명 = (자료형*) realloc(변수명, size_t elem_size);
+		변수명 = (자료형*)realloc(변수명, size_t elem_size);
 		변수가 갖고 있는 공간의 크기를 elem_size로 변경
 		공간이 충분하다면 바로 아래에 추가, 불충분하다면 다른 곳에 새로 생성
+		메모리 공간의 첫번째 주소 반환(void형으로) -> (자료형*)이 필요 (요청받은 메모리가 너무 커 확보 불가능한 경우, NULL 반환)
 
 	-free()
 		free(변수명);
 		heap 공간에서 변수명이 가르키는 공간 해제
+		free(공간 해제) 하지 않으면 memory leak(메모리 누수) 발생
+
+	-동적 메모리할당 관련 안전장치
+	if (num < n) // 할당할 메모리의 최소 크기 결정
+	{
+		코드; // 종료 등.
+	}
 
 	if (변수명 == NULL)
 	{
-		코드; // 메모리 공간이 불충분해 malloc 함수가 실패할 경우 실행할 코드
+		코드; // 메모리 공간이 불충분해 malloc 함수가 실패할 경우 실행할 코드(종료 등)
 	}
 	*/
 	

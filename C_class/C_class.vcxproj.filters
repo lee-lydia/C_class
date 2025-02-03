@@ -246,11 +246,35 @@
     <ClCompile Include="제어문_goto.c">
       <Filter>소스 파일\Day9</Filter>
     </ClCompile>
-    <ClCompile Include="이중포인터.c">
+    <ClCompile Include="다중포인터.c">
       <Filter>소스 파일\Day14</Filter>
     </ClCompile>
     <ClCompile Include="포인터실전문제.c">
       <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="메모리의 동적할당.c">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체.c">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef.c">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체_중첩.c">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체_포인터.c">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체_함수.c">
+      <Filter>소스 파일\Day15</Filter>
+    </ClCompile>
+    <ClCompile Include="함수포인터.c">
+      <Filter>소스 파일\Day14</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체문제.c">
+      <Filter>소스 파일\Day15</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
